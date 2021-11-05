@@ -81,10 +81,10 @@ das aulas síncronas e assíncronas;
 ### Parte teórica
 
 1. **exercícios** valendo até 10% a mais na média. Valor: 10,0 pontos cada que compõem a Média dos Exercícios (ME);  
-2. 2 **trabalhos individuais assíncronos**, com eventual apresentação síncrona. Valor: 10,0 pontos cada que compõem a Média dos Trabalhos em Grupo (MTI);  
-3. 2 **trabalhos em grupo assíncronos** com apresentação síncrona. Valor: 10,0 pontos cada que compõem a Média dos Trabalhos em Grupo (MTG).
+2. (2) **trabalhos individuais assíncronos**, com eventual apresentação síncrona. Valor: 10,0 pontos cada que compõem a Média dos Trabalhos em Grupo (MTI);  
+3. (2) **trabalhos em grupo assíncronos** com apresentação síncrona. Valor: 10,0 pontos cada que compõem a Média dos Trabalhos em Grupo (MTG).
 
-**Média parcial teórica (MPT)**, sendo ceifada em 10,0 se ultrapassar tal valor :  
+Média parcial teórica (MPT), sendo ceifada em 10,0 se ultrapassar tal valor :  
 MPL = 0,10 * ME + 0,50 * MTI + 0,50 * MTG
 
 ### Parte laboratorial
@@ -95,15 +95,15 @@ MPL = 0,10 * ME + 0,50 * MTI + 0,50 * MTG
 4. **relatórios em grupo de cada experimento**, entregues em 1-2 semanas após experimento, contendo os dados coletados, análise dos dados, conclusão, eventuais gráficos e outros anexos (cálculos de propagação de incertezas, etc). Valor: 10,0 pontos cada que compõem a Média dos Relatórios de Experimentos (MRE);  
 5. **participação em exercícios, discussões, pesquisas, etc, durante as aulas síncronas**. Valor: 10,0 pontos cada que compõem a Média de PArticipação (MPA).
 
-**Média parcial laboratorial (MPL)**, sendo ceifada em 10,0 se ultrapassar tal valor :  
+Média parcial laboratorial (MPL), sendo ceifada em 10,0 se ultrapassar tal valor :  
 MPL = 0,10 * MTR + 0,05 * MTE + 0,15 * MPRE + 0,70 * MRE + 0,10 * MPA
 
 ### Média da Disciplina
 
-**Média parcial (MP)** :  
+Média parcial (MP) :  
 MP = 0,50 * MPT + 0,50 * MPL
 
-**Aprovação direta com MP >= 7,0**, senão vai para Prova Final.  
+Aprovação direta com MP >= 7,0, senão vai para Prova Final.  
 Prova Final - o conteúdo a ser estudado para a prova será todo aquele ministrado ao longo do semestre.  
 Média Final (MF) = (Nota da prova final + Média Parcial)/2.  
 Aprovação com MP >= 5,0, senão reprovação na disciplina por nota.  
