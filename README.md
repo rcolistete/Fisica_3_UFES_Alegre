@@ -84,7 +84,7 @@ das aulas síncronas e assíncronas;
 2. (2) **trabalhos individuais assíncronos**, com eventual apresentação síncrona. Valor: 10,0 pontos cada que compõem a Média dos Trabalhos em Grupo (MTI);  
 3. (2) **trabalhos em grupo assíncronos** com apresentação síncrona. Valor: 10,0 pontos cada que compõem a Média dos Trabalhos em Grupo (MTG).
 
-Média parcial teórica (MPT), sendo ceifada em 10,0 se ultrapassar tal valor :  
+Média parcial teórica (MPL), sendo ceifada em 10,0 se ultrapassar tal valor :  
 MPL = 0,10 * ME + 0,50 * MTI + 0,50 * MTG
 
 ### Parte laboratorial
