@@ -72,7 +72,7 @@ Serão utilizados :
 - plataformas digitais do Google Suite (Google ClassRoom, Google Meet, etc) para a postagem de atividades e realização
 das aulas síncronas e assíncronas;
 - sítio eletrônico do [Laboratório 2 de Física da UFES-Alegre](https://fisica.alegre.ufes.br/), onde há apostila, roteiros dos experimentos, etc;  
-- [repositório público eletrônico da disciplina Física 3](https://github.com/rcolistete/Fisica3_UFES_Alegre), criado pelo professor;
+- [repositório público eletrônico da disciplina Física 3](https://github.com/rcolistete/Fisica_3_UFES_Alegre), criado pelo professor;
 - softwares de análise de dados gratuitos;
 - softwares de simulações gratuitos.
 
