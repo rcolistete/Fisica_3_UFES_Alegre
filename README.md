@@ -78,27 +78,27 @@ das aulas síncronas e assíncronas;
 
 ## Avaliações
 
-#### Parte teórica
+### Parte teórica
 
-- **exercícios** valendo até 10% a mais na média. Valor: 10,0 pontos cada que compõem a Média dos Exercícios (ME);
-- **2 trabalhos individuais assíncronos**, com eventual apresentação síncrona. Valor: 10,0 pontos cada que compõem a Média dos Trabalhos em Grupo (MTI);
-- **2 trabalhos em grupo assíncronos** com apresentação síncrona. Valor: 10,0 pontos cada que compõem a Média dos Trabalhos em Grupo (MTG).
+1. **exercícios** valendo até 10% a mais na média. Valor: 10,0 pontos cada que compõem a Média dos Exercícios (ME);  
+2. 2 **trabalhos individuais assíncronos**, com eventual apresentação síncrona. Valor: 10,0 pontos cada que compõem a Média dos Trabalhos em Grupo (MTI);  
+3. 2 **trabalhos em grupo assíncronos** com apresentação síncrona. Valor: 10,0 pontos cada que compõem a Média dos Trabalhos em Grupo (MTG).
 
 **Média parcial teórica (MPT)**, sendo ceifada em 10,0 se ultrapassar tal valor :  
 MPL = 0,10 * ME + 0,50 * MTI + 0,50 * MTG
 
-#### Parte laboratorial
+### Parte laboratorial
 
-a. trabalhos assíncronos, sobre ferramentas de análise de dados, de simulação, etc. Valor: 10,0 pontos cada que compõem a **Média dos TRabalhos (MTR)**;  
-b. testes individuais síncronos, feitos pouco antes de cada experimento. Valor: 10,0 pontos cada que compõem a **Média dos Testes de Experimentos (MTE)**;  
-c. pré-relatórios entregues antes de cada experimento, em grupo, contendo o objetivo do experimento, um breve resumo teórico, os procedimento de medidas. Valor: 10,0 pontos cada que compõem a **Média dos Pré-Relatórios de Experimentos (MPRE)**;  
-d. relatórios em grupo de cada experimentos, entregues em 1-2 semanas após experimento, contendo os dados coletados, análise dos dados, conclusão, eventuais gráficos e outros anexos (cálculos de propagação de incertezas, etc). Valor: 10,0 pontos cada que compõem a **Média dos Relatórios de Experimentos (MRE)**;  
-e. participação em exercícios, discussões, pesquisas, etc, durante as aulas síncronas. Valor: 10,0 pontos cada que compõem a **Média de PArticipação (MPA)**.
+1. **trabalhos assíncronos**, sobre ferramentas de análise de dados, de simulação, etc. Valor: 10,0 pontos cada que compõem a Média dos TRabalhos (MTR);  
+2. **testes individuais síncronos, feitos pouco antes de cada experimento**. Valor: 10,0 pontos cada que compõem a Média dos Testes de Experimentos (MTE);  
+3. **pré-relatórios entregues antes de cada experimento, em grupo**, contendo o objetivo do experimento, um breve resumo teórico, os procedimento de medidas. Valor: 10,0 pontos cada que compõem a Média dos Pré-Relatórios de Experimentos (MPRE);  
+4. **relatórios em grupo de cada experimento**, entregues em 1-2 semanas após experimento, contendo os dados coletados, análise dos dados, conclusão, eventuais gráficos e outros anexos (cálculos de propagação de incertezas, etc). Valor: 10,0 pontos cada que compõem a Média dos Relatórios de Experimentos (MRE);  
+5. **participação em exercícios, discussões, pesquisas, etc, durante as aulas síncronas**. Valor: 10,0 pontos cada que compõem a Média de PArticipação (MPA).
 
 **Média parcial laboratorial (MPL)**, sendo ceifada em 10,0 se ultrapassar tal valor :  
 MPL = 0,10 * MTR + 0,05 * MTE + 0,15 * MPRE + 0,70 * MRE + 0,10 * MPA
 
-#### Média da Disciplina
+### Média da Disciplina
 
 **Média parcial (MP)** :  
 MP = 0,50 * MPT + 0,50 * MPL
