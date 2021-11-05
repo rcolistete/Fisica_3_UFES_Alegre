@@ -20,7 +20,7 @@ Demonstrar conhecimentos básicos sobre o Eletromagnetismo e seus efeitos sobre 
 
 # Conteúdo Programático
 
-### Parte teórica
+#### Parte teórica
 
 1. CARGA ELÉTRICA : conceitos do eletromagnetismo. Eletroestática. Carga elétrica. Condutores e isolantes. Lei de Coulomb.  
 2. CAMPO ELÉTRICO : campo elétrico de cargas elétricas pontuais (distribuição discreta de cargas elétricas). Campo elétrico de distribuição contínua de cargas elétricas. Linhas de campo elétrico.  
@@ -36,7 +36,7 @@ Demonstrar conhecimentos básicos sobre o Eletromagnetismo e seus efeitos sobre 
 12. CORRENTE ALTERNADA : Corrente alternada. Potência. Transformadores.  
 13. EQUAÇÕES DE MAXWELL : as equações básicas do eletromagnetismo. Corrente de deslocamento. As equações de Maxwell.
 
-### Parte laboratorial
+#### Parte laboratorial
 
 1. Teoria de Erros :  
     1.1. Erros e desvios em medidas;  
@@ -78,7 +78,7 @@ das aulas síncronas e assíncronas;
 
 ## Avaliações
 
-### Parte teórica
+#### Parte teórica
 
 - **exercícios** valendo até 10% a mais na média. Valor: 10,0 pontos cada que compõem a Média dos Exercícios (ME);
 - **2 trabalhos individuais assíncronos**, com eventual apresentação síncrona. Valor: 10,0 pontos cada que compõem a Média dos Trabalhos em Grupo (MTI);
@@ -87,18 +87,18 @@ das aulas síncronas e assíncronas;
 **Média parcial teórica (MPT)**, sendo ceifada em 10,0 se ultrapassar tal valor :  
 MPL = 0,10 * ME + 0,50 * MTI + 0,50 * MTG
 
-### Parte laboratorial
+#### Parte laboratorial
 
-a) trabalhos assíncronos, sobre ferramentas de análise de dados, de simulação, etc. Valor: 10,0 pontos cada que compõem a Média dos TRabalhos (MTR);
-b) testes individuais síncronos, feitos pouco antes de cada experimento. Valor: 10,0 pontos cada que compõem a Média dos Testes de Experimentos (MTE);
-c) pré-relatórios entregues antes de cada experimento, em grupo, contendo o objetivo do experimento, um breve resumo teórico, os procedimento de medidas. Valor: 10,0 pontos cada que compõem a Média dos Pré-Relatórios de Experimentos (MPRE);
-d) relatórios em grupo de cada experimentos, entregues em 1-2 semanas após experimento, contendo os dados coletados, análise dos dados, conclusão, eventuais gráficos e outros anexos (cálculos de propagação de incertezas, etc). Valor: 10,0 pontos cada que compõem a Média dos Relatórios de Experimentos (MRE).
-e) participação em exercícios, discussões, pesquisas, etc, durante as aulas síncronas. Valor: 10,0 pontos cada que compõem a Média de PArticipação (MPA);
+a. trabalhos assíncronos, sobre ferramentas de análise de dados, de simulação, etc. Valor: 10,0 pontos cada que compõem a **Média dos TRabalhos (MTR)**;  
+b. testes individuais síncronos, feitos pouco antes de cada experimento. Valor: 10,0 pontos cada que compõem a **Média dos Testes de Experimentos (MTE)**;  
+c. pré-relatórios entregues antes de cada experimento, em grupo, contendo o objetivo do experimento, um breve resumo teórico, os procedimento de medidas. Valor: 10,0 pontos cada que compõem a **Média dos Pré-Relatórios de Experimentos (MPRE)**;  
+d. relatórios em grupo de cada experimentos, entregues em 1-2 semanas após experimento, contendo os dados coletados, análise dos dados, conclusão, eventuais gráficos e outros anexos (cálculos de propagação de incertezas, etc). Valor: 10,0 pontos cada que compõem a **Média dos Relatórios de Experimentos (MRE)**;  
+e. participação em exercícios, discussões, pesquisas, etc, durante as aulas síncronas. Valor: 10,0 pontos cada que compõem a **Média de PArticipação (MPA)**.
 
 **Média parcial laboratorial (MPL)**, sendo ceifada em 10,0 se ultrapassar tal valor :  
 MPL = 0,10 * MTR + 0,05 * MTE + 0,15 * MPRE + 0,70 * MRE + 0,10 * MPA
 
-### Média da Disciplina
+#### Média da Disciplina
 
 **Média parcial (MP)** :  
 MP = 0,50 * MPT + 0,50 * MPL
@@ -109,4 +109,3 @@ Média Final (MF) = (Nota da prova final + Média Parcial)/2.
 Aprovação com MP >= 5,0, senão reprovação na disciplina por nota.  
 
 **O aluno também precisa ter ao menos 75% de assiduidade das aulas síncronas para não ser reprovado por falta**. Vide [Resolução nº. 42/2021 - CEPE-UFES](https://daocs.ufes.br/sites/daocs.ufes.br/files/field/anexo/resolucao_no_42.2021_-_earte.pdf).
-
