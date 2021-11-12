@@ -29,11 +29,14 @@ Constando no plano de ensino oficial da disciplina, temos bibliografia antiga e 
 
 [Ao final de 2020 a UFES assinou com editoras o acesso a muitos livros digitais](https://earte.ufes.br/bibliotecas#h.6i764vqokkkr) para cobrir as bibliograficas das disciplinas ofertadas em modo remoto EARTE, com links disponíveis em [EARTE Bibliotecas](https://earte.ufes.br/bibliotecas). Vide [Bibliotecas Digitais da UFES (precisa fazer login com email institucional da UFES)](https://bibliotecas-digitais.ufes.br/), depois :
 
-- Biblioteca Cengage (crie conta gratuita no 1o acesso) :
-  - [Serway-Jewett] Raymond A. Serway; John W. Jewett, Jr., Física para Cientistas e Engenheiros, Volume 3 – Eletricidade e Magnetismo, 9a ed., São Paulo, Ed. Cengage Learning, 2018. ISBN: 9788522127115. [Link na Biblioteca Cengage via login na UFES](https://cengagebrasil.vitalsource.com/reader/books/9788522127115/);
-
+- Plataforma Digital Minha Biblioteca (crie conta gratuita no 1o acesso) :
+  - [Halliday-Walker] Halliday, David; Resnick, Robert; Walker, Jearl, Fundamentos de Física - Vol. 3 - Eletromagnetismo, 10ª ed., Rio de Janeiro, Ed. LTC, 2020. ISBN: 9788521632085. [Link na  Plataforma Digital Minha Biblioteca](https://integrada.minhabiblioteca.com.br/reader/books/9788521632092/epubcfi/6/2%5B%3Bvnd.vst.idref%3Dcover%5D!/4/2/2%4051:41);
 - Biblioteca Virtual Pearson (crie conta gratuita no 1o acesso) :
   - [Sears-Zemansky] Sears, F. W.; Zemansky, M. W.; Young H. D.; Freedman R. A., Física III - Eletromagnetismo, 14a ed., São Paulo, Ed. Pearson Addison Wesley, 2016. ISBN: 9788543015910. [Link na Biblioteca Virtual Pearson](https://plataforma.bvirtual.com.br/Leitor/Publicacao/36906/).
+
+- Biblioteca Cengage (crie conta gratuita no 1o acesso) :
+  - [Serway-Jewett] Raymond A. Serway; John W. Jewett, Jr., Física para Cientistas e Engenheiros, Volume 3 – Eletricidade e Magnetismo, 9a ed., São Paulo, Ed. Cengage Learning, 2018. ISBN: 9788522127115. [Link na Biblioteca Cengage via login na UFES](https://cengagebrasil.vitalsource.com/reader/books/9788522127115/).
+
 
 #### Sítios Internet :  
 
